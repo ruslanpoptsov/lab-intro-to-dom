@@ -108,3 +108,7 @@ footer {
   padding: 25px;
   text-align: right;
 }
+
+main section img {
+  grid-template-columns: 2fr 1fr;
+}
